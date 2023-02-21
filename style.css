@@ -1,0 +1,20 @@
+.content {
+  align-items: center;
+  background: #f0ffff;
+  color: #6b8623;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background: olivedrab;
+  border: none;
+  color: #888;
+  font-size: 18px;
+  padding: 10px 20px;
+}
+
+button:hover {
+  background: #f0ffff;
+color: #112311
+}
